@@ -14,16 +14,6 @@
 
 ---
 
-## 🌓 Dark/Light Toggle
-
-This README adapts visually to GitHub's theme mode (dark/light).
-
-👉 To experience the real toggle feature in action, visit my portfolio site:
-**[ronaldedano.dev](http://192.168.0.99:8080)**  
-🔄 Use the toggle in the top-right corner to switch themes!
-
----
-
 ## 🔭 Currently Working On:
 - **Ps_Java_POS** at Phillogix Systems Incorporated
 

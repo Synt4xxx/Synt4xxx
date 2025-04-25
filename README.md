@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Self-taught+Front-End+Developer;UI%2FUX+Enthusiast+%E2%9C%A8;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Aware%20Design-%F0%9F%8C%91%20%2F%20%F0%9F%8C%9C-informational?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🔭 Currently Working On:
